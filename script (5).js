@@ -2,7 +2,7 @@ let grassArr = [];
 let sheepArr = []; 
 let wolfArr = []; 
 let flowerArr = []; 
-let waterArr = [];
+let waterArr = []; 
 
 let matrix = [];
 
